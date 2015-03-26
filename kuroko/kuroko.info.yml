@@ -1,0 +1,4 @@
+name: kuroko
+description: This is my module in drupal 8.
+type: module
+core: 8.x

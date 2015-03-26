@@ -1,0 +1,17 @@
+﻿1
+How can I go to Malacañang?
+You can ride a taxi or trycle. tell the driver marisol.
+140323432
+http://localhost/aa/slider/image/6.png
+-- new article --
+2
+How can I go to Malabañas?
+You can ride a taxi or trycle. tell the driver marisol.
+140323432
+http://localhost/aa/slider/image/1.png
+-- new article --
+3
+How can I go to Mandaluyong?
+You can ride a taxi or trycle. tell the driver marisol.
+140323432
+http://localhost/aa/slider/image/5.png

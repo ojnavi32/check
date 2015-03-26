@@ -1,0 +1,10 @@
+<?php
+
+function kuroko_theme() {
+    return [
+        'Porting' => [
+            'variables' => [ 'title' => null, 'form' => null, 'nodes' => null ],
+            'template' => 'Porting'
+        ],
+    ];
+}
