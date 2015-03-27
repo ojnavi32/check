@@ -1,0 +1,7 @@
+zkuroko.porting:
+  path: '/porting'
+  defaults:
+    _controller: 'Drupal\kuroko\Controller\Porting::ShowPage'
+    _title: 'Porting'
+  requirements:
+    _permission: 'access content'
